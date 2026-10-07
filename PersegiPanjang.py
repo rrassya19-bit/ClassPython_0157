@@ -19,3 +19,6 @@ lebar = int(input("Masukkan lebar (cm): "))
 
 r = PersegiPanjang(panjang, lebar)
 
+print(r)
+print("Keliling:", r.keliling(), "cm")
+print("Luas:", r.luas(), "cm persegi")

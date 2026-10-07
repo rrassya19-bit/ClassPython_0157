@@ -17,3 +17,5 @@ class PersegiPanjang:
 panjang = int(input("Masukkan panjang (cm): "))
 lebar = int(input("Masukkan lebar (cm): "))
 
+r = PersegiPanjang(panjang, lebar)
+
